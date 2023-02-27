@@ -1,11 +1,22 @@
-let a = 0 ;
+let age = 25 ;
+let year = 2025 ;
 
-const b = 6 ;
+console.log(age,year);
 
-var c = 9 ;
+age = 30 ;
 
-console.log(c);
+console.log(age);
 
-//const b = 78 ;- c
+//<------------------------------------------------>
 
-console.log(b) ; // invalid due c
+const point = 40 ;
+
+//point = 50 ;     Not allowed
+
+
+//old method
+
+var score = 75 ;
+
+console.log(score);
+

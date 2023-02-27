@@ -1,0 +1,1 @@
+alert('Hello , this is an alert from a file');
